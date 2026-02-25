@@ -1,4 +1,6 @@
-## Hello I'm Shreya V
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&size=25&center=true&vCenter=true&width=650&lines=Shreya+V+%7C+Creative+Developer;UI+Lover+%F0%9F%8E%A8;React+Explorer+%F0%9F%9A%80;Designing+with+Logic+%F0%9F%92%BB" />
+</p>
  
 An Information Science Engineering student at Amruta Institue of engineering and management science bengaluru <br/>
 passionate about building clean, responsive and user-friendly web applications.<br/>
