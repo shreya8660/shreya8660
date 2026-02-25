@@ -1,23 +1,6 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/snake.svg
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&pause=1000&lines=%F0%9F%8C%B8+Hello+I'm+Shreya+V+%F0%9F%92%96;%F0%9F%92%BB+Web+Developer+%F0%9F%92%97;%F0%9F%8E%A8+UI+Designer+%F0%9F%8C%B7" />
+</p>
  
 An Information Science Engineering student at Amruta Institue of engineering and management science bengaluru <br/>
 passionate about building clean, responsive and user-friendly web applications.<br/>
