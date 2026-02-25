@@ -1,6 +1,5 @@
-## <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br /> 
+## Hello I'm Shreya V
+ 
 An Information Science Engineering student at Amruta Institue of engineering and management science bengaluru <br/>
 passionate about building clean, responsive and user-friendly web applications.<br/>
 
