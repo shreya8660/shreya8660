@@ -323,11 +323,11 @@ HTML • CSS • JavaScript
 
 <br>
 
-[<div align="center">
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shreya8660&theme=tokyonight&hide_border=true&v=2)
+<img src="https://streak-stats.demolab.com?user=shreya8660&theme=tokyonight&hide_border=true&v=3"/>
 
-</div>](https://github.com/shreya8660/shreya8660)
+</div>
 
 <br>
 
