@@ -310,7 +310,6 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Analytics
 
 # 📊 GitHub Analytics
 
@@ -346,15 +345,7 @@ HTML • CSS • JavaScript
 
 </div>
 
----
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya8660&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
 
 ---
 
