@@ -325,7 +325,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<img src="[https://streak-stats.demolab.com?user=shreya8660&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D](https://streak-stats.demolab.com/?user=shreya8660)"/>
+<img src="https://streak-stats.demolab.com?user=shreya8660&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
