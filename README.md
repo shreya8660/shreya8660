@@ -1,160 +1,470 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=🌸+Hello,+I'm+Shreya+V+💖;💻+Full+Stack+Web+Developer;🎨+UI%2FUX+Designer;🚀+Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h3 align="center">
-Information Science & Engineering Student | Full Stack Web Developer | UI/UX Designer
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Shreya+V;Full+Stack+Web+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New+🚀" />
 
-<p align="center">
-  <a href="https://github.com/shreya8660">
-    <img src="https://img.shields.io/github/followers/shreya8660?label=Followers&style=for-the-badge&color=ff69b4" />
-  </a>
-  <a href="https://github.com/shreya8660?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shreya8660?affiliations=OWNER&style=for-the-badge&color=8A2BE2" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shreya8660&style=for-the-badge&color=blueviolet" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loves-UI%2FUX%20Design-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships-06B6D4?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🌸 About Me
+# 💜 About Me
 
-🎓 I'm an **Information Science & Engineering** student at **Amruta Institute of Engineering and Management Sciences, Bengaluru**.
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💖 Passionate about creating modern, responsive and user-friendly web applications.
+### 👩‍💻 Hello!
 
-✨ I enjoy turning ideas into beautiful digital experiences with clean code and attractive UI.
+I'm **Shreya V**, an Information Science & Engineering student passionate about building beautiful, responsive, and scalable web applications.
 
-### 💡 Interests
+✨ I enjoy creating products that combine **clean UI**, **great UX**, and **efficient code**.
 
-- 💻 Full Stack Web Development
-- 🎨 UI/UX Design
-- 🚀 Building Responsive Websites
-- 📱 Modern React Applications
-- 🎮 Creative Game Development
-- 🤖 Exploring AI-powered Applications
+### 🌸 A little about me
 
----
-
-# 🚀 Currently Working On
-
-- 🌐 Responsive Web Applications
-- ⚛️ React & Tailwind CSS Projects
-- 🛒 E-Commerce Websites
-- 🎨 UI/UX Design
-- 🧩 Puzzle Game Development
-- 📂 Portfolio Improvements
-
----
+- 🎓 Information Science Engineering Student
+- 💻 Full Stack Web Developer
+- 🎨 UI/UX Designer
+- 🌱 Currently learning **Next.js & Advanced Backend**
+- 🚀 Exploring AI-powered Web Applications
+- 🤝 Open to Internship Opportunities
 
 # 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
+<a href="mailto:shreyavenkatesh2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/shreya-v-98961b329/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/__shreyy_07" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreya8660">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Profile
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shreya8660&label=Profile%20Views&color=EC4899&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/shreya8660?label=Followers&style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/stars/shreya8660?affiliations=OWNER&style=for-the-badge&color=06B6D4"/>
+
+</div>
+
+---
+
+# 🚀 Quick Links
+
+<div align="center">
+
+<a href="https://github.com/shreya8660?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:shreyavenkatesh2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire%20Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/shreya-v-98961b329/">
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💡 What I Do
+
+```text
+💻 Full Stack Development
+⚛️ React & Next.js Development
+🎨 UI/UX Design
+📱 Responsive Web Applications
+🗄️ Backend Development
+🤖 AI-Powered Web Applications
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c" />
 </p>
 
----
+## ⚛️ Frontend Development
 
-# 💻 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
 
-### Languages
+## 🗄️ Backend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
 
----
+## 🎨 UI / UX & Design
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,canva" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+## ☁️ Deployment & Cloud
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,github,git,render" />
+</p>
 
-### Backend
+## 🛠️ Development Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,linux" />
+</p>
+
+</div>
 
 ---
 
-### Tools
+# 📚 Currently Learning
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System%20Design-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Applications-EC4899?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-06B6D4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🎯 Core Skills
+
+```text
+🌐 Responsive Web Development
+⚛️ React & Next.js Development
+🎨 UI/UX Design
+🗄️ Backend Development
+🔗 REST API Integration
+📱 Mobile-Responsive Interfaces
+🧠 Problem Solving
+🤝 Team Collaboration
+```
+
+---
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 SkillMap AI
+
+AI-powered personalized learning roadmap platform that generates learning paths, recommends projects, and tracks user progress.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Gemini AI • Tailwind CSS
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+<td width="50%">
+
+### 🩸 LifeLink
+
+A Smart Blood Donation Platform connecting donors, hospitals, and NGOs with AI-powered donor matching and campaign management.
+
+**Tech Stack**
+
+React • Express • MongoDB • Google Maps • JWT • Gemini AI
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏛️ GovSense AI
+
+AI-powered sentiment analysis platform that helps governments analyze public feedback using dashboards and automation.
+
+**Tech Stack**
+
+React • Node.js • MongoDB • n8n • Gemini AI
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+<td width="50%">
+
+### 🎮 Anime Vision
+
+A Computer Vision project using hand gesture recognition to display anime characters with interactive animations.
+
+**Tech Stack**
+
+Python • OpenCV • MediaPipe • Pygame
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ☕ CupfulCanvas
+
+Modern responsive coffee shop website with elegant UI, menu showcase, and smooth animations.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+<td width="50%">
+
+### 🍔 FoodEat
+
+Responsive restaurant website with online menu, modern interface, and engaging user experience.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+[🔗 Repository](https://github.com/shreya8660)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ⭐ What Makes My Projects Different
+
+```text
+✨ Clean UI & Modern Design
+🚀 Responsive Across All Devices
+⚡ Optimized Performance
+🔒 Secure Authentication
+🤖 AI-Powered Features
+📈 Scalable Architecture
+🧩 User-Centered Experience
+```
+
+---
+
+# 💼 Currently Building
+
+- 🚀 Advanced Full Stack Applications
+- 🤖 AI-Powered Web Platforms
+- 🎨 Creative UI/UX Designs
+- ⚛️ React & Next.js Projects
+- 🌐 REST API Integrations
+- 📱 Mobile-Responsive Interfaces
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya8660&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya8660&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreya8660&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shreya8660&theme=radical&hide_border=true"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya8660&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreya8660&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=shreya8660&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya8660&theme=react-dark&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya8660&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-# ✨ Quote
+# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shreya8660&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shreya8660&style=for-the-badge&color=blueviolet"/>
-</p>
+# ⚡ GitHub Highlights
 
-<h3 align="center">
-💖 Thanks for visiting my profile! Have a great day! 🌸
-</h3>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreya8660&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📅 Productivity Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreya8660&theme=tokyonight" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreya8660&theme=tokyonight" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreya8660&theme=tokyonight" height="170"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreya8660&theme=tokyonight&utcOffset=5.5" height="170"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreya8660/shreya8660/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreya8660/shreya8660/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shreya8660/shreya8660/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌱 2026 Goals
+
+```text
+🚀 Master Next.js & TypeScript
+🤖 Build AI-Powered Applications
+📱 Develop Scalable Full Stack Projects
+🎨 Create Modern UI/UX Experiences
+🌍 Contribute to Open Source
+🏆 Crack a Software Development Internship
+☁️ Learn Cloud Deployment & DevOps
+```
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 💻 Full Stack Web Applications
+- 🤖 AI & Machine Learning Projects
+- 🎨 UI/UX Design
+- 🚀 Open Source Contributions
+- 📱 React & Next.js Projects
+
+---
+
+# 📫 Get In Touch
+
+<div align="center">
+
+<a href="mailto:shreyavenkatesh2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-v-98961b329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreya8660">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/__shreyy_07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Happy+Coding!+💜;See+You+Again!+🚀" />
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=140&section=footer"/>
+
+</div>
+- ⚡ Fun fact: I enjoy turning ideas into real-world projects.
+
+---
